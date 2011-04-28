@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/version/!svn/ver/6/trunk/tests/fixtures
+END
+friends_person_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friends_person_version_fixture.php
+END
+org_unit_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/version/!svn/ver/6/trunk/tests/fixtures/org_unit_fixture.php
+END
+address_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/version/!svn/ver/6/trunk/tests/fixtures/address_version_fixture.php
+END
+building_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/version/!svn/ver/6/trunk/tests/fixtures/building_fixture.php
+END
+friend_person_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friend_person_fixture.php
+END
+my_parent_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/version/!svn/ver/6/trunk/tests/fixtures/my_parent_fixture.php
+END
+computer_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/version/!svn/ver/6/trunk/tests/fixtures/computer_fixture.php
+END
+relationship_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/version/!svn/ver/6/trunk/tests/fixtures/relationship_fixture.php
+END
+employer_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/version/!svn/ver/6/trunk/tests/fixtures/employer_version_fixture.php
+END
+tree_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/version/!svn/ver/6/trunk/tests/fixtures/tree_version_fixture.php
+END
+person_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/version/!svn/ver/6/trunk/tests/fixtures/person_fixture.php
+END
+malformed_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/version/!svn/ver/6/trunk/tests/fixtures/malformed_fixture.php
+END
+friend_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friend_version_fixture.php
+END
+friends_person_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friends_person_fixture.php
+END
+life_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/version/!svn/ver/6/trunk/tests/fixtures/life_version_fixture.php
+END
+computers_people_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/version/!svn/ver/6/trunk/tests/fixtures/computers_people_fixture.php
+END
+address_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/version/!svn/ver/6/trunk/tests/fixtures/address_fixture.php
+END
+desk_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/version/!svn/ver/6/trunk/tests/fixtures/desk_fixture.php
+END
+affiliation_type_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/version/!svn/ver/6/trunk/tests/fixtures/affiliation_type_fixture.php
+END
+parent_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/version/!svn/ver/6/trunk/tests/fixtures/parent_fixture.php
+END
+employer_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/version/!svn/ver/6/trunk/tests/fixtures/employer_fixture.php
+END
+friends_special_people_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friends_special_people_fixture.php
+END
+tree_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/version/!svn/ver/6/trunk/tests/fixtures/tree_fixture.php
+END
+relationship_type_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/version/!svn/ver/6/trunk/tests/fixtures/relationship_type_fixture.php
+END
+my_parent_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/version/!svn/ver/6/trunk/tests/fixtures/my_parent_version_fixture.php
+END
+special_person_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/version/!svn/ver/6/trunk/tests/fixtures/special_person_fixture.php
+END
+friend_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friend_fixture.php
+END
+computers_person_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/version/!svn/ver/6/trunk/tests/fixtures/computers_person_fixture.php
+END
+malformed_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/version/!svn/ver/6/trunk/tests/fixtures/malformed_version_fixture.php
+END
+person_version_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/version/!svn/ver/6/trunk/tests/fixtures/person_version_fixture.php
+END
+room_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/version/!svn/ver/6/trunk/tests/fixtures/room_fixture.php
+END
+life_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/version/!svn/ver/6/trunk/tests/fixtures/life_fixture.php
+END
+friends_special_person_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/version/!svn/ver/6/trunk/tests/fixtures/friends_special_person_fixture.php
+END
